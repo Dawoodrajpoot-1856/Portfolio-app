@@ -91,6 +91,25 @@ const projectsList = [
     liveUrl: "https://weather-github.vercel.app/",
     githubUrl: "https://github.com/Dawoodrajpoot-1856/weather-github",
   },
+  {
+    id: 8,
+    title: "eSIM app",
+    description:
+      "A multi-functional web dashboard combining real-time weather forecasts with API integrations for exploring GitHub profiles and repositories.",
+    image: "/esim.png",
+    tags: [
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "REST API",
+      "Supabse",
+      "Redux",
+      "Tanstack",
+      "Zod",
+    ],
+    liveUrl: "https://esim-app-codiea.vercel.app/",
+    githubUrl: "https://github.com/Dawoodrajpoot-1856/esim-app",
+  },
 ];
 
 const Projects = () => {
