@@ -42,6 +42,25 @@ const projectsList = [
     githubUrl: "https://github.com/Dawoodrajpoot-1856/yaloo-app",
   },
   {
+    id: 8,
+    title: "eSIM app",
+    description:
+      "A multi-functional web dashboard combining real-time weather forecasts with API integrations for exploring GitHub profiles and repositories.",
+    image: "/esim.png",
+    tags: [
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "REST API",
+      "Supabse",
+      "Redux",
+      "Tanstack",
+      "Zod",
+    ],
+    liveUrl: "https://esim-app-codiea.vercel.app/",
+    githubUrl: "https://github.com/Dawoodrajpoot-1856/esim-app",
+  },
+  {
     id: 4,
     title: "Name decoration tools app",
     description:
@@ -72,6 +91,16 @@ const projectsList = [
     githubUrl: "https://github.com/Dawoodrajpoot-1856/resturant-app",
   },
   {
+    id: 9,
+    title: "Unit converters app",
+    description:
+      "Very use ful tool Oof unit converter. it can help in every calculation in life",
+    image: "/unit.png",
+    tags: ["Next.js", "React", "Tailwind CSS", "Redux"],
+    liveUrl: "https://unit-converters-codiea.vercel.app/",
+    githubUrl: "https://github.com/Dawoodrajpoot-1856/unit-converters-app",
+  },
+  {
     id: 6,
     title: "Mini game app",
     description:
@@ -90,25 +119,6 @@ const projectsList = [
     tags: ["Next.js", "React", "Tailwind CSS", "REST API"],
     liveUrl: "https://weather-github.vercel.app/",
     githubUrl: "https://github.com/Dawoodrajpoot-1856/weather-github",
-  },
-  {
-    id: 8,
-    title: "eSIM app",
-    description:
-      "A multi-functional web dashboard combining real-time weather forecasts with API integrations for exploring GitHub profiles and repositories.",
-    image: "/esim.png",
-    tags: [
-      "Next.js",
-      "React",
-      "Tailwind CSS",
-      "REST API",
-      "Supabse",
-      "Redux",
-      "Tanstack",
-      "Zod",
-    ],
-    liveUrl: "https://esim-app-codiea.vercel.app/",
-    githubUrl: "https://github.com/Dawoodrajpoot-1856/esim-app",
   },
 ];
 
