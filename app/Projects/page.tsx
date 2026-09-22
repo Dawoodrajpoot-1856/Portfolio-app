@@ -81,16 +81,6 @@ const projectsList = [
     githubUrl: "https://github.com/Dawoodrajpoot-1856/lovecharacters64",
   },
   {
-    id: 8,
-    title: "Restaurant app",
-    description:
-      "A sleek restaurant website featuring online menu showcase, food category filters, and interactive reservation workflows.",
-    image: "/Rest.png",
-    tags: ["Next.js", "React", "Tailwind CSS", "TypeScript"],
-    liveUrl: "https://resturant-codiea.vercel.app/",
-    githubUrl: "https://github.com/Dawoodrajpoot-1856/resturant-app",
-  },
-  {
     id: 9,
     title: "Unit converters app",
     description:
@@ -100,6 +90,35 @@ const projectsList = [
     liveUrl: "https://unit-converters-codiea.vercel.app/",
     githubUrl: "https://github.com/Dawoodrajpoot-1856/unit-converters-app",
   },
+  {
+    id: 10,
+    title: "Turbo repo 1 app",
+    description: "I will work in turbo repo. this is my first proejct",
+    image: "/unit.png",
+    tags: ["Next.js", "React", "Tailwind CSS", "Turbo repo"],
+    liveUrl: "https://my-monorepo-mono1.vercel.app",
+    githubUrl: "https://github.com/Dawoodrajpoot-1856/my-monorepo",
+  },
+  {
+    id: 11,
+    title: "Turbo repo 2 app",
+    description: "I will work in turbo repo. this is my second proejct",
+    image: "/repo1.png",
+    tags: ["Next.js", "React", "Tailwind CSS", "Turbo repo"],
+    liveUrl: "https://my-monorepo-mono2.vercel.app",
+    githubUrl: "https://github.com/Dawoodrajpoot-1856/my-monorepo",
+  },
+  {
+    id: 8,
+    title: "Restaurant app",
+    description:
+      "A sleek restaurant website featuring online menu showcase, food category filters, and interactive reservation workflows.",
+    image: "/repo2.png",
+    tags: ["Next.js", "React", "Tailwind CSS", "TypeScript"],
+    liveUrl: "https://resturant-codiea.vercel.app/",
+    githubUrl: "https://github.com/Dawoodrajpoot-1856/resturant-app",
+  },
+
   {
     id: 6,
     title: "Mini game app",
